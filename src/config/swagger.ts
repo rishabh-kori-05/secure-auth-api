@@ -24,7 +24,7 @@ const options: swaggerJsdoc.Options = {
         description: 'Development server',
       },
       {
-        url: `https://your-app.onrender.com/api/${env.API_VERSION}`,
+        url: `https://secure-auth-api-b48l.onrender.com/api/${env.API_VERSION}`,
         description: 'Production server (Render)',
       },
     ],
