@@ -299,11 +299,23 @@ railway up
 
 ## 📸 Screenshots
 
-> _(Add screenshots of Swagger UI and Postman collection here)_
+### Swagger Documentation
 
-| Swagger UI | Auth Flow | Admin Panel |
-|---|---|---|
-| `[screenshot]` | `[screenshot]` | `[screenshot]` |
+![Swagger UI](./screenshots/swagger.png)
+
+---
+
+### Auth API 
+
+![Auth API](./screenshots/auth.png)
+
+---
+
+### ADMIN 
+
+![ADMIN](./screenshots/admin.png)
+
+
 
 ---
 
