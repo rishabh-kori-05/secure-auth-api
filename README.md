@@ -319,6 +319,7 @@ railway up
 
 ---
 
+
 ## 🧰 Tech Stack
 
 | Layer | Technology |
@@ -337,6 +338,19 @@ railway up
 | Dev | ts-node-dev |
 
 ---
+
+
+# Secure Auth API
+
+Production-grade authentication REST API built with Node.js, Express, TypeScript, MongoDB, and JWT.
+
+## Live Demo
+
+API:
+https://secure-auth-api-b48l.onrender.com
+
+Swagger Docs:
+https://secure-auth-api-b48l.onrender.com/api-docs
 
 ## 📄 License
 
